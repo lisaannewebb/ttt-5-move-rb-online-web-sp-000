@@ -9,5 +9,5 @@ index=gets
 
 board=gets
 
-
+move=gets
 
